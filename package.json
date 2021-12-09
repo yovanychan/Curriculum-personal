@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "ejs": "^3.1.6"
-  }
+  },
+  "name": "curriculum-personal",
+  "description": "",
+  "version": "1.0.0",
+  "main": "peticiones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yovanychan/Curriculum-personal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yovanychan/Curriculum-personal/issues"
+  },
+  "homepage": "https://github.com/yovanychan/Curriculum-personal#readme",
+  "devDependencies": {}
 }
